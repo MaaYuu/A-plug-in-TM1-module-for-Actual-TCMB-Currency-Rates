@@ -1,0 +1,8 @@
+﻿[]=C:IF(ELLEV('TCMB_Currency ',!TCMB_Currency )>0,0,CONTINUE);
+[]=C:IF(ELLEV('TCMB_ReferenceCurrency',!TCMB_ReferenceCurrency)>0,0,CONTINUE);
+
+[{'Percent Change in Buy Rate (Daily)','Percent Change in Sell Rate (Daily)'}]=N:IF(!TCMB_Currency @=!TCMB_ReferenceCurrency,0,CONTINUE);
+
+[]=N:IF(!TCMB_Currency @=!TCMB_ReferenceCurrency,1,CONTINUE);
+[]=N:IF(!TCMB_ReferenceCurrency@='TRY',CONTINUE, DB('TCMB_CurrencyRates',!TCMB_Date,!TCMB_Currency,'TRY',!TCMB_CurrencyRates_m)\DB('TCMB_CurrencyRates',!TCMB_Date,!TCMB_ReferenceCurrency,'TRY',!TCMB_CurrencyRates_m));
+

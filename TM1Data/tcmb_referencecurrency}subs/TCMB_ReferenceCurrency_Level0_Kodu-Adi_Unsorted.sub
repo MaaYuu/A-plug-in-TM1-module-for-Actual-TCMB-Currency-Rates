@@ -1,0 +1,10 @@
+﻿283,100
+284,"TCMB_ReferenceCurrency_Level0_Kodu-Adi_Unsorted"
+11,20200604093650
+274,Kodu-Adi
+18,0
+275,146
+{EXCEPT ({ORDER({TM1SUBSETALL( [TCMB_ReferenceCurrency] )}, [TCMB_ReferenceCurrency].[SortOrder], BASC) }, {[TCMB_ReferenceCurrency]. [#root]} ) }
+278,0
+281,0
+270,0

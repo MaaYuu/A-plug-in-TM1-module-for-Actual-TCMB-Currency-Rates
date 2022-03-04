@@ -1,0 +1,5 @@
+﻿Eleman;Par1;Par2;Par3;Par1w;Par2w;Par3w;Type;Format;Picklist;Alias1;Security;SortOrder;Write_Groups;Read_Groups;Attr1;Attr1Name;Attr2;Attr2Name;Attr3;Attr3Name;Attr4;Attr4Name;Attr5;Attr5Name
+Buy Rate;;;;;;;N;"b:#,##0.0000;(#,##0.0000)CO|4|Y";;;;1;;;Alış Kuru;A_Adi;;;;;;;;
+Sell Rate;;;;;;;N;"b:#,##0.0000;(#,##0.0000)CO|4|Y";;;;2;;;Satış Kuru;;;;;;;;;
+Percent Change in Buy Rate (Daily);;;;;;;N;"b:#,##0.0000;(#,##0.0000)CO|4|Y";;;;3;;;Alış Kurunda Yüzde Değişim (Günlük);;;;;;;;;
+Percent Change in Sell Rate (Daily);;;;;;;N;"b:#,##0.0000;(#,##0.0000)CO|4|Y";;;;4;;;Satış Kurunda Yüzde Değişim (Günlük);;;;;;;;;

@@ -1,0 +1,23 @@
+﻿Eleman;Par1;Par2;Par3;Par1w;Par2w;Par3w;Type;Format;Picklist;Security;SortOrder;Attr1;Attr1Name;Attr2;Attr2Name;Attr3;Attr3Name;Attr4;Attr4Name;Attr5;Attr5Name
+#root;;;;;;;C;;;;1;All Currencies;A_Name;Tüm Para Birimleri;A_Adi;;;;;;
+TRY;#root;;;1;;;N;;;;2;Turkish Lira;;Türk Lirası;;;;;;;
+USD;#root;;;1;;;N;;;;3;US Dollar;;Amerikan Doları;;;;;;;
+EUR;#root;;;1;;;N;;;;4;Euro;;Euro;;;;;;;
+AUD;#root;;;1;;;N;;;;5;Australian Dollar;;Avustralya Doları;;;;;;;
+BGN;#root;;;1;;;N;;;;6;Bulgarian Lev;;Bulgar Levası;;;;;;;
+CAD;#root;;;1;;;N;;;;7;Canadian Dollar;;Kanada Doları;;;;;;;
+CHF;#root;;;1;;;N;;;;8;Swiss Franc;;İsviçre Frangı;;;;;;;
+CNY;#root;;;1;;;N;;;;9;Chinese Yuan Renminbi;;Çin Yuanı;;;;;;;
+DKK;#root;;;1;;;N;;;;10;Danish Krone;;Danimarka Kronu;;;;;;;
+GBP;#root;;;1;;;N;;;;11;British Pound;;İngiliz Sterlini;;;;;;;
+IRR;#root;;;1;;;N;;;;12;Iranian Rial;;İran Riyali;;;;;;;
+JPY;#root;;;1;;;N;;;;13;Japanese Yen;;Japon Yeni;;;;;;;
+KWD;#root;;;1;;;N;;;;14;Kuwaiti Dinar;;Kuveyt Dinarı;;;;;;;
+NOK;#root;;;1;;;N;;;;15;Norwegian Krone;;Norveç Kronu;;;;;;;
+PKR;#root;;;1;;;N;;;;16;Pakistan Rupee;;Pakistan Rupisi;;;;;;;
+QAR;#root;;;1;;;N;;;;17;Qatari Riyal;;Katar Riyali;;;;;;;
+RON;#root;;;1;;;N;;;;18;Romanian New Leu;;Romen Leyi;;;;;;;
+RUB;#root;;;1;;;N;;;;19;Russian Ruble;;Rus Rublesi;;;;;;;
+SAR;#root;;;1;;;N;;;;20;Saudi Arabian Riyal;;Suudi A. Riyali;;;;;;;
+SEK;#root;;;1;;;N;;;;21;Swedish Krona;;İsveç Kronu;;;;;;;
+XDR;#root;;;1;;;N;;;;22;IMF Special Drawing Rights;;IMF Özel Çekme Hakkı;;;;;;;

@@ -1,0 +1,10 @@
+﻿283,100
+284,"TCMB_CurrencyRates_m_All"
+11,20200602141001
+274,
+18,0
+275,88
+{ORDER({TM1SUBSETALL( [TCMB_CurrencyRates_m] )}, [TCMB_CurrencyRates_m].[Order], BASC) }
+278,0
+281,0
+270,0
