@@ -1,6 +1,6 @@
 # A plug-in TM1 module for Actual-TCMB-Currency-Rates
 
-This module could be created as a new TM1 server, or plugged into existing server. 
+This module files are directly embeddable into existing server. 
 With the help of chores, it automatically takes TCMB(Turkish Central Bank) currency rates in specified basis or just run the process to consume
 data whenever it is wanted.
 
