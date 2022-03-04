@@ -6,6 +6,12 @@ data whenever it is wanted.
 
 **Installation:**
 
+• TM1py
+• evds
+
+
+**Installation:**
+
 
 • Python should be installed from the link ../Upgrade_for_TCMB_CurrencyRates/**python-3.7.6-amd64.exe.**
     o	The default installation location is “E:/Python”. When another folder is selected, the pyExe variable in the **TCMB_Data_Import_CurrencyRates_from_TCMB_EVDS** process should change accordingly.
