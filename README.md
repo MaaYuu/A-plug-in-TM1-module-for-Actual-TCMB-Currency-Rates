@@ -4,8 +4,8 @@ This module could be created as a new TM1 server, or plugged into existing serve
 With the help of chores, it automatically takes TCMB(Turkish Central Bank) currency rates in specified basis or just run the process to consume
 data whenever it is wanted.
 
-**TCMB_CurrencyRates module installation
-**
+**Installation:**
+
 
 • Python should be installed from the link ../Upgrade_for_TCMB_CurrencyRates/**python-3.7.6-amd64.exe.**
     o	The default installation location is “E:/Python”. When another folder is selected, the pyExe variable in the **TCMB_Data_Import_CurrencyRates_from_TCMB_EVDS** process should change accordingly.
