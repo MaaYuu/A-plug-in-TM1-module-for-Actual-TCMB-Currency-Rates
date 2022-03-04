@@ -4,7 +4,7 @@ This module files are directly embeddable into existing server.
 With the help of chores, it automatically takes TCMB(Turkish Central Bank) currency rates in specified basis or just run the process to consume
 data whenever it is wanted.
 
-**Installation:**
+**Mainly used libs:**
 
 • TM1py
 
